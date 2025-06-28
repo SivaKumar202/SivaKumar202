@@ -1,7 +1,7 @@
 # Hi 👋, I'm Siva Kumar
 
 **Learning by Building | Open to Opportunities**
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sivakumar202&label=Profile%20views&color=0e75b6&style=flat" alt="j23saw" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sivakumar202&label=Profile%20views&color=0e75b6&style=flat" alt="Sivakumar202" /> </p>
 
 ---
 
