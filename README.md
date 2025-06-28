@@ -1,7 +1,7 @@
 # Hi 👋, I'm Siva Kumar
 
 **Learning by Building | Open to Opportunities**
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sivakumar202&label=Profile%20views&color=0e75b6&style=flat" alt="Sivakumar202" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SivaKumar202&label=Profile%20views&color=0e75b6&style=flat" alt="SivaKumar202" /> </p>
 
 ---
 
@@ -22,7 +22,6 @@ I’m eager to connect with professionals, collaborate on open-source, and contr
 - 🧰 **Tools:** Git, GitHub, VS Code, Postman  
 
 ---
-
 <!-- ### 📌 Featured Projects
 
 <!-- Replace these sample links with your real projects once ready -->
