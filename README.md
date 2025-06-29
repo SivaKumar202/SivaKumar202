@@ -1,19 +1,19 @@
-# Hi 👋, I'm Siva Kumar
+<h1 align="center"><b>Hi , I'm Siva Kumar </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 **Learning by Building | Open to Opportunities**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SivaKumar202&label=Profile%20views&color=0e75b6&style=flat" alt="SivaKumar202" /> </p>
 
 ---
 
-### 👋 About Me
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> About me </b>
 
 Hi there! I'm Siva Kumar, a passionate and motivated full stack developer focused on building clean, scalable, and user-centric web applications. I'm currently honing my skills in the MERN stack (MongoDB, Express, React, Node.js) and actively working on real-world projects to grow as a developer and contribute to meaningful solutions.
 
 I’m eager to connect with professionals, collaborate on open-source, and contribute meaningfully to the tech industry.
 
 ---
-
-### 🛠️ Tech Stack
+ 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
 
 - 💻 **Frontend:** HTML, CSS, JavaScript, React.js  
 - 🖥️ **Backend:** Node.js, Express.js  
