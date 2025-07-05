@@ -22,7 +22,7 @@ I’m eager to connect with **professionals, collaborate on open-source, and con
 ##  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tech Stack
 
 - 🧠 **Languages:** JavaScript, C++, Python  
-- 🎨 **Frontend:** HTML, CSS, JavaScript, React.js  
+- 🎨 **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS, Material UI ( MUI) 
 - ⚙️ **Backend:** Node.js, Express.js  
 - 🗄️ **Database:** MongoDB  
 - 🛠️ **Tools & Platforms:** Git, GitHub, Postman, VS Code  
