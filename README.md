@@ -10,7 +10,6 @@
 </p>
 
 ---
-
 ## 👨‍💻 About Me
 
 Hi! I'm **Siva Kumar**, a passionate and motivated full stack developer focused on building clean, scalable, and user-centric web applications.  I'm currently building real-world projects to strengthen in the **MERN Stack** (MongoDB, Express, React, Node.js) and actively working on real-world projects to grow as a developer and contribute to meaningful solutions.
