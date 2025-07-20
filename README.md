@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SivaKumar202&label=Profile%20Views&color=2ecc71&style=flat" alt="SivaKumar202" />
-  <img src="https://media.tenor.com/S5zKsNtIUPYAAAAj/inidia-indian.gif" width="40" alt="India" />
+  <img src="https://media.tenor.com/S5zKsNtIUPYAAAAj/inidia-indian.gif" width="40" alt="India " />
 </p>
 
 ---
