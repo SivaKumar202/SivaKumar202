@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" width="30px" alt="👋"> I'm <strong>Siva Kumar</strong></h1>
 
-<p align="center">
+<p align="center ">
   <strong> MERN Stack Enthusiast | Open to Collaborations & Opportunities</strong>
 </p>
 
