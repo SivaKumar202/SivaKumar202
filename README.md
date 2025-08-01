@@ -40,7 +40,7 @@ I'm open to:
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" alt="⚡" width="32" height="32"> You can find me here! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f447/512.gif" alt="👇" width="32" height="32">
 
 <p>
-  <a href="https://siva-kumar.netlify.app"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
+  <a href="https://sivakumardev.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/siva-kumar-jujjavarapu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:sivakumarjujjavarapu123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
