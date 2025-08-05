@@ -10,7 +10,7 @@
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
-[![Visits Badge](https://komarev.com/ghpvc/?username=SivaKumar202&label=Profile%20views&color=green&style=for-the-badge)](https://github.com/SivaKumar202/)
+[![Visits Badge](https://komarev.com/ghpvc/?username=SivaKumar202&label=Profile%20views&color=2ecc71&style=flat-square)](https://github.com/SivaKumar202)
 <a href="https://www.linkedin.com/in/siva-kumar-jujjavarapu/" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="Siva Kumar | Linkedin" /></a>
 
 <p align="center">
