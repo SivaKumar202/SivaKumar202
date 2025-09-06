@@ -1,6 +1,5 @@
 <div align=center>
- 
-  <a href="https://sivakumardev.netlify.app/" target="_blank" style="text-decoration: none;">
+  <a href="#" target="_blank" style="text-decoration: none;">
     <img 
       src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=30&duration=4000&pause=6000&color=1e90ff&center=true&vCenter=true&repeat=true&random=false&width=600&lines=Hello+%3Ccoders!%2F%3E%2C+I'm+Siva+Kumar" 
       alt="Hey there 🙋‍♂️, I'm Siva Kumar" 
@@ -8,7 +7,9 @@
     />
   </a>
 </div>
+ <a href="#" target="_blank" style="text-decoration: none;">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+ </a>
 
 [![Visits Badge](https://komarev.com/ghpvc/?username=SivaKumar202&label=Profile%20views&color=2ecc71&style=flat-square)](https://github.com/SivaKumar202)
 <a href="https://www.linkedin.com/in/siva-kumar-jujjavarapu/" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="Siva Kumar | Linkedin" /></a>
