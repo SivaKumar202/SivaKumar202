@@ -1,7 +1,7 @@
 <div align=center>
   <a href="#" target="_blank" style="text-decoration: none;">
     <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=30&duration=4000&pause=6000&color=1e90ff&center=true&vCenter=true&repeat=true&random=false&width=600&lines=Hello+%3Ccoders!%2F%3E%2C+I'm+Siva+Kumar" 
+      src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=30&duration=4000&pause=6000&color=1e90ff&center=true&vCenter=true&repeat=true&random=false&width=600&lines=Hello+I'm+Siva+Kumar" 
       alt="Hey there 🙋‍♂️, I'm Siva Kumar" 
       style="border: none; box-shadow: none;" 
     />
