@@ -17,16 +17,6 @@
 <p align="center">
   <strong><h3 align="center">Full Stack Developer | MERN Stack Enthusiast | Open to Collaborations & Opportunities</h3></strong>
   <h4 align="start">Hi! I'm Siva Kumar, a passionate and self-driven Full Stack Developer who believes in learning by building. I love writing clean, scalable, and user-friendly code and enjoy collaborating with others to build impactful tech products.</h4>
- <section>
-  <strong>
-  I'm open to:
-  <br>
- 🤝 Collaborating on open-source or real-world projects
-   <br>
-📚 Learning with and from other developers
-   <br>
-  </strong>
- </section>
 </p>
 
 
